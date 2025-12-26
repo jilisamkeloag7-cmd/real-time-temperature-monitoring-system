@@ -24,4 +24,5 @@ to see the system be tested at room temperature: https://drive.google.com/file/d
 to see the system be tested at different environmental conditions(touching the sensor) : https://drive.google.com/file/d/1u7ZA5gR-g0wvQJAmDidrAxQTqaCGF1nd/view?usp=sharing
 
 ## Documentation
+the MATLAB scripts of the system that produce the plots have been attatched as well as images of the results.
 See the project presentation for system architecture, diagrams, and experimental results.
