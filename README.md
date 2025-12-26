@@ -13,13 +13,13 @@ Such systems are widely used in robotics, industrial monitoring, and smart infra
 Group leader responsible for system integration, data analysis, and coordination of software–hardware interaction.
 
 ## Tools & Technologies
-- Temperature sensor
-- Microcontroller
-- Python / MATLAB (for data visualization)
+- LM35 Temperature sensor
+- Arduino Uno Microcontroller
+- MATLAB (for data visualization)
 - Digital electronics principles
 
 ## Results
-The system successfully displayed real-time temperature changes and plotted accurate Temperature vs Time graphs.
+The system successfully displayed real-time temperature changes and plotted accurate Temperature vs Time graphs with a spit of one second.
 
 ## Documentation
 See the project presentation for system architecture, diagrams, and experimental results.
