@@ -20,6 +20,8 @@ Group leader responsible for system integration, data analysis, and coordination
 
 ## Results
 The system successfully displayed real-time temperature changes and plotted accurate Temperature vs Time graphs with a spit of one second.
+to see the system be tested at room temperature: https://drive.google.com/file/d/1GfgMlcbKcz-eO7kMuFcEK1_yi9oRX_eP/view?usp=sharing
+to see the system be tested at different environmental conditions(touching the sensor) : https://drive.google.com/file/d/1u7ZA5gR-g0wvQJAmDidrAxQTqaCGF1nd/view?usp=sharing
 
 ## Documentation
 See the project presentation for system architecture, diagrams, and experimental results.
